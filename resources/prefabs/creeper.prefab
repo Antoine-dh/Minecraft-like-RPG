@@ -1,0 +1,6 @@
+name=creeper
+model=creeper
+texture=creeper
+sound=creeper
+scale=1065353216:1065353216:1065353216
+life=200

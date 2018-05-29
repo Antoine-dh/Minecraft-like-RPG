@@ -1,0 +1,6 @@
+name=ninja_creeper
+model=creeper
+texture=ninja_creeper
+sound=creeper
+scale=1061997773:1061997773:1061997773
+life=50

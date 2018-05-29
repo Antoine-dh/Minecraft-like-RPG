@@ -1,0 +1,6 @@
+name=mooshroom
+model=cow
+texture=mooshroom
+sound=cow
+scale=1065353216:1065353216:1065353216
+life=250
