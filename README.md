@@ -6,3 +6,6 @@ $ make
 
 Run:
 $ ./rpg
+
+![Screenshot1](/screenshots/01.png)
+![Screenshot2](/screenshots/02.png)
